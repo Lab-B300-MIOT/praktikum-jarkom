@@ -261,7 +261,7 @@ Jika muncul pesan "Setup has completed successfully", klik OK.
 ![alt text](<images/DHCP Server.png>)
 
 7. Mengaktifkan Proxy ARP 🔗
-Ubah mode ARP pada interface yang terhubung ke internet untuk membantu proses bridging dan routing.
+Ubah mode ARP pada interface yang terhubung ke PC2 untuk membantu proses bridging dan routing.
 ```bash
 Buka menu Interfaces.
 Klik dua kali pada interface ether1.
