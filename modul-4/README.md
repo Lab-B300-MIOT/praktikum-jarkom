@@ -276,3 +276,19 @@ Pengujian Pemblokiran Konten (Browse):
 
 
 ## Tugas Modul
+
+1. Buatlah topologi sederhana di Cisco Packet Tracer dengan:
+- 1 Router
+- 1 Switch
+- 3 PC (LAN)
+- 1 Server (Internet/Public)
+
+2. Konfigurasi NAT:
+Buat agar semua PC bisa mengakses Server menggunakan IP publik Router.
+
+3. Konfigurasi Firewall (ACL):
+- Izinkan hanya PC1 yang dapat mengakses Server.
+- Blokir PC1 dan PC3 dari mengakses Server.
+- Semua PC harus tetap bisa saling terhubung di LAN.
+
+Uji koneksi menggunakan ping dan dokumentasikan hasilnya.
