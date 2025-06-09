@@ -395,3 +395,24 @@ Bandingkan hasilnya. Anda seharusnya melihat kecepatan download dan upload sekar
 
 
 # Tugas Modul
+
+Topologi :
+
+PC1 - Router 1 - Internet - Router 2 - PC2
+
+
+Membuat simulasi jaringan menggunakan Cisco Packet Tracer yang menunjukkan konektivitas antar dua jaringan melalui protokol PPTP (Point-to-Point Tunneling Protocol).
+
+1. Buatlah sebuah simulasi jaringan di Cisco Packet Tracer dengan topologi sebagai berikut:
+- Terdapat 2 buah Router yang terhubung satu sama lain menggunakan Protokol PPTP.
+- Masing-masing Router memiliki 1 buah PC client
+- Konfigurasikan koneksi antar kedua Router menggunakan PPTP VPN agar jaringan di kedua sisi dapat saling terhubung secara aman.
+- Lakukan pengaturan IP pada masing-masing perangkat (Router dan PC).
+
+2. Pastikan setelah konfigurasi selesai:
+- PC yang berada pada jaringan Router pertama dapat melakukan ping ke PC yang berada pada jaringan Router kedua, dan sebaliknya.
+
+3. Masukan dalam laporan berikut :
+- Topologi jaringan (screenshot dari Cisco Packet Tracer).
+- Hasil pengujian konektivitas (ping test antar PC).
+- Penjelasan singkat tentang fungsi PPTP dalam jaringan tersebut.
